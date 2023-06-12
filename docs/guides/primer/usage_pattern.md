@@ -418,7 +418,7 @@ response = query_engine.query("What did the author do growing up?")
 
 
 
-## 5. Parsing the response
+## 6. Parsing the response
 
 The object returned is a [`Response` object](/reference/response.rst).
 The object contains both the response text as well as the "sources" of the response:
